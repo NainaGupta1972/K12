@@ -1,2 +1,3 @@
 # K12
-Education website
+Education website 
+Have fun!
